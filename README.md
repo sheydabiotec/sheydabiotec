@@ -1,6 +1,7 @@
 - 👋 Hi, I’m sheyda
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java script 
+- 🌱 I’m currently learning Python
+- I Know Matlab , Java Script ,Type Script.......
 
 <!---
 sheyda/sheyda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
