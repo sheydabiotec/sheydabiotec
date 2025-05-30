@@ -5,7 +5,7 @@ I get really excited about bridging the gap between software and the clinic, esp
 
 **What keeps me busy:**
 
-* ✨ Crafting awesome **front-end** experiences with HTML, CSS, and JavaScript.
+* ✨ Crafting awesome **front-end** experiences with HTML, CSS, and JavaScript , Type script.
 * 🧠 Playing with numbers through **statistical analysis**, **data analysis** (DTA), and **Machine Learning**.
 * 🩺 Building software that makes a difference in the **medical device** space.
 
